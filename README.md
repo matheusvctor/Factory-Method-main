@@ -33,7 +33,7 @@ git clone https://github.com/seu-usuario/Factory-Method.git
 
 ## 🎓 Disciplina
 - **Nome**: Métodos Avançados de Programação (MAP)
-- **Professor**: [Nome do Professor]
+- **Professora**: Sabrina de Figueirêdo
 - **Instituição**: [Nome da Instituição]
 
 ## ✨ Contribuição

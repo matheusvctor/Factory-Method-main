@@ -44,8 +44,5 @@ Contribuições são sempre bem-vindas! Para contribuir:
 4. Push para a branch (`git push origin feature/NovaFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
-Desenvolvido com ❤️ como projeto educacional para a disciplina de MAP. 
+Desenvolvido com carinho como projeto educacional para a disciplina de MAP. 
